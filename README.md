@@ -1,6 +1,6 @@
 # REST API simple Node.js HTTP routing without frameworks.
 
-##How to use:
+## How to use:
 
 	const Server = require('./main/server');
 	const server = new Server();
